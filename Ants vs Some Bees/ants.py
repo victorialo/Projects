@@ -1,8 +1,8 @@
 """
 The ants module implements game logic for Ants Vs. SomeBees.
 Name: Victoria Lo
-Login: cs61-ep
-TA: Stepeh Martinis
+Login: cs61a-ep
+TA: Stephen Martinis
 Section: 014
 """
 
