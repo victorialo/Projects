@@ -5,7 +5,7 @@ A little portfolio of some coding I've done.
 
 Ants vs. Some Bees
 ----------------
-[Documentation](http://www-inst.eecs.berkeley.edu/~cs61a/sp13/projects/ants/ants.html)
+[Documentation/Description](http://www-inst.eecs.berkeley.edu/~cs61a/sp13/projects/ants/ants.html)
 
 A spinoff of "Plants vs. Zombies" written in Python. Partner project for CS 61A. 
 To run: 
@@ -16,7 +16,8 @@ For text-based version:
 
 A Simple Enigma
 -----------------
-[Documentation](https://inst.eecs.berkeley.edu/~cs61b/fa13/labs/proj0.pdf)
+[Documentation/Description](https://inst.eecs.berkeley.edu/~cs61b/fa13/labs/proj0.pdf)
+
 A replica of the Enigma encryption/decryption machine used in World War II. Individual project for CS 61B. 
 To run: 
 	`java enigma.Main < INPUT-FILE > OUTPUT-FILE`
