@@ -1,0 +1,18 @@
+package enigma;
+
+import static org.junit.Assert.assertEquals;
+
+import org.junit.Test;
+
+public class MainTest {
+
+    public static void main(String... args) {
+        System.exit(ucb.junit.textui.runClasses(Machine.class));
+    }
+
+    @Test
+    public void set() {
+        assertEquals("config line", Machine.setRotors("AXLE"));
+    }
+
+}
