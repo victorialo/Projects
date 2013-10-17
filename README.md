@@ -25,3 +25,10 @@ A replica of the Enigma encryption/decryption machine used in World War II writt
 To run: 
 	`java enigma.Main < INPUT-FILE > OUTPUT-FILE`
 (input and output files optional)
+
+
+Dash Society
+----------------
+[Current site](http://dashsociety.com)
+
+Profile pages for the users, horses, and clubs in the Dash Society equine "sim" game written with CSS, HTML, PHP, and MySQL. Written while I was co-owner, with the other co-owner of Dash Society during Fall 2012.
