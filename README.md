@@ -12,7 +12,7 @@ A spinoff of "Plants vs. Zombies" written in Python (mostly ants.py). Partner pr
 ####To run:####
 *Prequisites:* Have some version of Python3 installed.
 
-	`python3 ants_gui.py`
+	python3 ants_gui.py
 	
 For text-based version: 
 	`python3 ants.py`
@@ -28,7 +28,7 @@ A replica of the Enigma encryption/decryption machine used in World War II writt
 ####To run:####
 *Prequisites:* Have some version of the Java SDK installed.
 
-	`java enigma.Main < INPUT-FILE > OUTPUT-FILE`
+	java enigma.Main < INPUT-FILE > OUTPUT-FILE
 (input and output files optional)
 
 
@@ -41,12 +41,12 @@ An AI to solve for the most effective moves to win a game of Connect N using min
 ####To run:####
 *Prequisites:* Have some version of the Java SDK, Python, and the Hadoop framework installed. Hadoop files are included in the lib directory.
 
-	`make`
+	make
 	
-	`make proj2 WIDTH=n HEIGHT=m CONNECT=i`
+	make proj2 WIDTH=n HEIGHT=m CONNECT=i
 including the all-caps, where WIDTH is the width of the board, HEIGHT is the height of the board, and CONNECT is the number of pieces for a connect/win.
 	
-	`python TUI.py w h c`
+	python TUI.py w h c
 where w is the board width, h is the board height, and c is the number of pieces for a connect/win. 
 
 Dash Society
