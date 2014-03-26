@@ -11,6 +11,7 @@ A spinoff of "Plants vs. Zombies" written in Python (mostly ants.py). Partner pr
 
 ####To run:####
 *Prequisites:* Have some version of Python3 installed.
+
 	`python3 ants_gui.py`
 	
 For text-based version: 
@@ -26,6 +27,7 @@ A replica of the Enigma encryption/decryption machine used in World War II writt
 
 ####To run:####
 *Prequisites:* Have some version of the Java SDK installed.
+
 	`java enigma.Main < INPUT-FILE > OUTPUT-FILE`
 (input and output files optional)
 
