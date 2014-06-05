@@ -49,8 +49,5 @@ including the all-caps, where WIDTH is the width of the board, HEIGHT is the hei
 	python TUI.py w h c
 where w is the board width, h is the board height, and c is the number of pieces for a connect/win. 
 
-Dash Society
-----------------
-[Current site](http://dashsociety.com)
-
-Profile pages for the users, horses, and clubs in the Dash Society equine "sim" game written with CSS, HTML, PHP, and MySQL. Written while I was co-owner, with the other co-owner of Dash Society during Fall 2012.
+-----------
+Taken down temporarily - please email me if you'd like to see this!
