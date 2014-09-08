@@ -15,7 +15,7 @@ A spinoff of "Plants vs. Zombies" written in Python (mostly ants.py). Partner pr
 	python3 ants_gui.py
 	
 For text-based version: 
-	`python3 ants.py`
+	python3 ants.py
 
 
 A Simple Enigma
@@ -51,3 +51,17 @@ where w is the board width, h is the board height, and c is the number of pieces
 
 -----------
 Taken down temporarily - please email me if you'd like to see this!
+
+
+Eigenvector Finding
+-----------------
+[Documentation/Description](http://www-inst.eecs.berkeley.edu/~cs61c/su14/proj/02/proj2.pdf)
+
+Optimized code to find eigenvectors to matrices from ~1 GFlop/sec to ~30+ GFlop/sec. Individual project for CS 61C. 
+
+####To run:####
+*Prerequisites:* Have some version of C installed. 
+	
+	make
+	./bench-fast
+
